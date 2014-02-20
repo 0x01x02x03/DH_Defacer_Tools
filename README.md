@@ -1,4 +1,4 @@
-DH_Defacer_Tools
+DH Defacer Tools
 ================
 
 A simple PHP program dedicated to the web vulnerabilities with the following options:
